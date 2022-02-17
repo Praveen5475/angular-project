@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "name": "praveen",
+      "class": "10",
+      "address": "2-112A",
+      "email": "praveen@gmail.com",
+      "city": "cumbum",
+      "password": "Vpraveen@123"
+    },
+    {
+      "id": 9,
+      "name": "salman",
+      "class": "9",
+      "address": "212",
+      "email": "salman@gmail.com",
+      "city": "vijayawada",
+      "password": "123456"
+    },
+    {
+      "id": 10,
+      "name": "siva",
+      "class": "6",
+      "address": "1452",
+      "email": "siva@gmail.com",
+      "city": "guntur",
+      "password": "123456"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
